@@ -7,10 +7,8 @@
 
 .CabecalhoImagem {
     width: 20%;
-    flex: 1;
 }
 
 .CabecalhoInterface {
-    flex: 1;
     text-align: right;
 }

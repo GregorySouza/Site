@@ -3,19 +3,16 @@
     color: white;
     padding: 20px;
     display: flex;
-    overflow: hidden;
-}
-
-.CabecalhoImagem {
-    float: left;
 }
 
 .CabecalhoImagem img{
     width: 20%;
     height: auto;
+    margin: 0px 120px 0px 0px;
 }
 
 .CabecalhoInterface {
     float: right;
     text-align: right;
+    margin: 75px 0px 0px 480px;
 }

@@ -6,7 +6,7 @@
 }
 
 .CabecalhoImagem img{
-    width: 20%;
+    width: 10%;
     height: auto;
     margin: 0px 120px 0px 0px;
 }
@@ -15,4 +15,8 @@
     float: right;
     text-align: right;
     margin: 75px 0px 0px 480px;
+}
+
+.CabecalhoInterfaceItem {
+    display: inline-block;
 }

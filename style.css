@@ -1,13 +1,21 @@
 .Cabecalho {
     background-color: #424E61;
     color: white;
+    padding: 20px;
     display: flex;
+    overflow: hidden;
 }
 
 .CabecalhoImagem {
+    float: left;
+}
+
+.CabecalhoImagem img{
     width: 20%;
+    height: auto;
 }
 
 .CabecalhoInterface {
+    float: right;
     text-align: right;
 }
